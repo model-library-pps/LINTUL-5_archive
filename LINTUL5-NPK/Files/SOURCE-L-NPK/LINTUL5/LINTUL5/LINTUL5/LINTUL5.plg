@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: LINTUL5 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\WOlf008\LOCALS~1\Temp\RSP28D.tmp" with contents
+[
+kernel32.lib /nologo /subsystem:console /incremental:no /pdb:"Debug/LINTUL5.pdb" /debug /machine:I386 /out:"Debug/LINTUL5.exe" /pdbtype:sept 
+".\Debug\Cropp5.obj"
+".\Debug\DAILOUT5.OBJ"
+".\Debug\INITP5.OBJ"
+".\Debug\LINTUL5.OBJ"
+".\Debug\LINTULSUB5.OBJ"
+".\Debug\STOUT5.OBJ"
+".\Debug\SWEAF.OBJ"
+".\Debug\TIMER.OBJ"
+".\Debug\Watbals5.obj"
+".\Debug\WEATHR.OBJ"
+"..\..\..\..\LIBRARY\LIBPOTATO\LIBPOTAT\Debug\LIBPOTAT.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\WOlf008\LOCALS~1\Temp\RSP28D.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+LINTUL5.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

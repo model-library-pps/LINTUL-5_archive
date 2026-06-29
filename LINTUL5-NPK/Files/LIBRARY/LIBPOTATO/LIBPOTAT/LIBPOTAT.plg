@@ -1,0 +1,625 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: LIBPOTAT - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Wolf008\LOCALS~1\Temp\RSP15A.tmp" with contents
+[
+/check:bounds /compile_only /dbglibs /debug:full /nologo /traceback /warn:argument_checking /warn:nofileopt /module:"Debug/" /object:"Debug/" /pdbfile:"Debug/DF60.PDB" 
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSLOG.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSCHA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRINIT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRAREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRALOG.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRAINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRACHA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WORDS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WARNING.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\VER4_07.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\USEDUN.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\UPPERC.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\UNIFL.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\TTUVER.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\TIMER2.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\SWPI4.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\STRIP.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\STR_COPY.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\SORTCH.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\SFINDG.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\REMOVE.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RECREAD.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\REANOR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\REAAND.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDTMP2.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDTMP1.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSTIM.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSRER.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSLOG.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSINR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSETS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSDOU.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSDOR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSCTB.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSCHA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDPARS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMTIM.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMLOG.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMDOU.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMDEF.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMCHA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDLEX.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINQR2.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINQR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINNE.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINLV.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINIT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINDX.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINDT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFTIM.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFROM.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFRER.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFLOG.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFINR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFDOU.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFDOR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFCHA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDERR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDTMP.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDECT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDECL.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDECI.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDECD.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDATA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDATIM.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDARER.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDAREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDALOG.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDAINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDAINR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDADOU.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDADOR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDACHA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\POS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\PLTHIS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\PLTFUN.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTSEL.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTPLT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTDAT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTCOM.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTARR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTAR2.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\NOTNUL.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\MOVAVR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\MOFILP.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LOWERC.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LINT2.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LIMIT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\IUNIFL.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ISTART.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\INTGRL.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\INSW.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ILEN.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\IFINDI.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\IFINDC.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETUN2.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETUN.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETREC.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETCHR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FOPENS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FOPENG.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FLNAME.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FLEXIST.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FCNSW.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FATALERR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\EXTENS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ERROR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDRE.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDIN.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDCH.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTCHA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTSYS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTNOW.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTLEAP.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTFSEDP.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTFSECMP.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTDPST.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTDPAR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTARDP.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DELFIL.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DECREC.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DECREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DECINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DECCHK.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\COPFL2.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\COPFIL.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\CLS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\CHKTSK.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\AMBUSY.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\AFINVS.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDSTR.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDSTF.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDREF.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDREA.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDINT.FOR"
+"D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDINF.FOR"
+]
+Creating temporary file "C:\DOCUME~1\Wolf008\LOCALS~1\Temp\RSP15B.tmp" with contents
+[
+/nologo /out:"Debug\LIBPOTAT.lib" 
+".\Debug\ADDINF.OBJ"
+".\Debug\ADDINT.OBJ"
+".\Debug\ADDREA.OBJ"
+".\Debug\ADDREF.OBJ"
+".\Debug\ADDSTF.OBJ"
+".\Debug\ADDSTR.OBJ"
+".\Debug\AFINVS.OBJ"
+".\Debug\AMBUSY.OBJ"
+".\Debug\CHKTSK.OBJ"
+".\Debug\CLS.OBJ"
+".\Debug\COPFIL.OBJ"
+".\Debug\COPFL2.OBJ"
+".\Debug\DECCHK.OBJ"
+".\Debug\DECINT.OBJ"
+".\Debug\DECREA.OBJ"
+".\Debug\DECREC.OBJ"
+".\Debug\DELFIL.OBJ"
+".\Debug\DTARDP.OBJ"
+".\Debug\DTDPAR.OBJ"
+".\Debug\DTDPST.OBJ"
+".\Debug\DTFSECMP.OBJ"
+".\Debug\DTFSEDP.OBJ"
+".\Debug\DTLEAP.OBJ"
+".\Debug\DTNOW.OBJ"
+".\Debug\DTSYS.OBJ"
+".\Debug\ENTCHA.OBJ"
+".\Debug\ENTDCH.OBJ"
+".\Debug\ENTDIN.OBJ"
+".\Debug\ENTDRE.OBJ"
+".\Debug\ENTINT.OBJ"
+".\Debug\ENTREA.OBJ"
+".\Debug\ERROR.OBJ"
+".\Debug\EXTENS.OBJ"
+".\Debug\FATALERR.OBJ"
+".\Debug\FCNSW.OBJ"
+".\Debug\FLEXIST.OBJ"
+".\Debug\FLNAME.OBJ"
+".\Debug\FOPENG.OBJ"
+".\Debug\FOPENS.OBJ"
+".\Debug\GETCHR.OBJ"
+".\Debug\GETREC.OBJ"
+".\Debug\GETUN.OBJ"
+".\Debug\GETUN2.OBJ"
+".\Debug\IFINDC.OBJ"
+".\Debug\IFINDI.OBJ"
+".\Debug\ILEN.OBJ"
+".\Debug\INSW.OBJ"
+".\Debug\INTGRL.OBJ"
+".\Debug\ISTART.OBJ"
+".\Debug\IUNIFL.OBJ"
+".\Debug\LIMIT.OBJ"
+".\Debug\LINT.OBJ"
+".\Debug\LINT2.OBJ"
+".\Debug\LOWERC.OBJ"
+".\Debug\MOFILP.OBJ"
+".\Debug\MOVAVR.OBJ"
+".\Debug\NOTNUL.OBJ"
+".\Debug\OUTAR2.OBJ"
+".\Debug\OUTARR.OBJ"
+".\Debug\OUTCOM.OBJ"
+".\Debug\OUTDAT.OBJ"
+".\Debug\OUTPLT.OBJ"
+".\Debug\OUTSEL.OBJ"
+".\Debug\PLTFUN.OBJ"
+".\Debug\PLTHIS.OBJ"
+".\Debug\POS.OBJ"
+".\Debug\RDACHA.OBJ"
+".\Debug\RDADOR.OBJ"
+".\Debug\RDADOU.OBJ"
+".\Debug\RDAINR.OBJ"
+".\Debug\RDAINT.OBJ"
+".\Debug\RDALOG.OBJ"
+".\Debug\RDAREA.OBJ"
+".\Debug\RDARER.OBJ"
+".\Debug\RDATIM.OBJ"
+".\Debug\RDDATA.OBJ"
+".\Debug\RDDECD.OBJ"
+".\Debug\RDDECI.OBJ"
+".\Debug\RDDECL.OBJ"
+".\Debug\RDDECT.OBJ"
+".\Debug\RDDTMP.OBJ"
+".\Debug\RDERR.OBJ"
+".\Debug\RDFCHA.OBJ"
+".\Debug\RDFDOR.OBJ"
+".\Debug\RDFDOU.OBJ"
+".\Debug\RDFINR.OBJ"
+".\Debug\RDFINT.OBJ"
+".\Debug\RDFLOG.OBJ"
+".\Debug\RDFREA.OBJ"
+".\Debug\RDFRER.OBJ"
+".\Debug\RDFROM.OBJ"
+".\Debug\RDFTIM.OBJ"
+".\Debug\RDINDT.OBJ"
+".\Debug\RDINDX.OBJ"
+".\Debug\RDINIT.OBJ"
+".\Debug\RDINLV.OBJ"
+".\Debug\RDINNE.OBJ"
+".\Debug\RDINQR.OBJ"
+".\Debug\RDINQR2.OBJ"
+".\Debug\RDLEX.OBJ"
+".\Debug\RDMCHA.OBJ"
+".\Debug\RDMDEF.OBJ"
+".\Debug\RDMDOU.OBJ"
+".\Debug\RDMINT.OBJ"
+".\Debug\RDMLOG.OBJ"
+".\Debug\RDMREA.OBJ"
+".\Debug\RDMTIM.OBJ"
+".\Debug\RDPARS.OBJ"
+".\Debug\RDSCHA.OBJ"
+".\Debug\RDSCTB.OBJ"
+".\Debug\RDSDOR.OBJ"
+".\Debug\RDSDOU.OBJ"
+".\Debug\RDSETS.OBJ"
+".\Debug\RDSINR.OBJ"
+".\Debug\RDSINT.OBJ"
+".\Debug\RDSLOG.OBJ"
+".\Debug\RDSREA.OBJ"
+".\Debug\RDSRER.OBJ"
+".\Debug\RDSTIM.OBJ"
+".\Debug\RDTMP1.OBJ"
+".\Debug\RDTMP2.OBJ"
+".\Debug\REAAND.OBJ"
+".\Debug\REANOR.OBJ"
+".\Debug\RECREAD.OBJ"
+".\Debug\REMOVE.OBJ"
+".\Debug\SFINDG.OBJ"
+".\Debug\SORTCH.OBJ"
+".\Debug\STR_COPY.OBJ"
+".\Debug\STRIP.OBJ"
+".\Debug\SWPI4.OBJ"
+".\Debug\TIMER2.OBJ"
+".\Debug\TTUVER.OBJ"
+".\Debug\UNIFL.OBJ"
+".\Debug\UPPERC.OBJ"
+".\Debug\USEDUN.OBJ"
+".\Debug\VER4_07.OBJ"
+".\Debug\WARNING.OBJ"
+".\Debug\WORDS.OBJ"
+".\Debug\WRACHA.OBJ"
+".\Debug\WRAINT.OBJ"
+".\Debug\WRALOG.OBJ"
+".\Debug\WRAREA.OBJ"
+".\Debug\WRINIT.OBJ"
+".\Debug\WRSCHA.OBJ"
+".\Debug\WRSINT.OBJ"
+".\Debug\WRSLOG.OBJ"
+".\Debug\WRSREA.OBJ"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\Wolf008\LOCALS~1\Temp\RSP15B.tmp"
+<h3>Output Window</h3>
+Compiling Fortran...
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSLOG.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSCHA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRSCHA.FOR(16) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [X]
+      X_L = MAX (1,ILEN (X))
+-------------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRINIT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRINIT.FOR(31) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILE]
+      IL   = ILEN (FILE)
+-------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRAREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRAREA.FOR(21) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [XNAME]
+      XNAME_L = ILEN (XNAME)
+----------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRALOG.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRALOG.FOR(19) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [XNAME]
+      XNAME_L = ILEN (XNAME)
+----------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRAINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRAINT.FOR(21) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [XNAME]
+      XNAME_L = ILEN (XNAME)
+----------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRACHA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WRACHA.FOR(20) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [XNAME]
+      XNAME_L = ILEN (XNAME)
+----------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WORDS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WARNING.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\WARNING.FOR(10) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [MODULE]
+      IL1 = ILEN (MODULE)
+------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\VER4_07.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\USEDUN.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\USEDUN.FOR(21) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILE]
+      IL = ILEN (FILE)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\UPPERC.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\UNIFL.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\TTUVER.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\TIMER2.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\SWPI4.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\STRIP.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\STRIP.FOR(8) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [STRING]
+      J = ILEN (STRING)
+----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\STR_COPY.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\STR_COPY.FOR(11) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [SOURCE_S]
+      ILS = MAX (1,ILEN (SOURCE_S))
+-------------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\SORTCH.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\SFINDG.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\SFINDG.FOR(34) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [NAMLIS]
+      IF (IL3.EQ.ILEN(NAMLIS(1))) THEN
+----------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\REMOVE.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RECREAD.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RECREAD.FOR(42) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [INPUT_FILE]
+      FILE_LEN = ILEN (INPUT_FILE)
+-----------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RECREAD.FOR(115) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [F_BUF]
+      TMPI1 = ILEN (F_BUF(F_BUF_P:F_BUF_P+CR_POS-2))
+--------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\REANOR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\REAAND.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDTMP2.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDTMP1.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSTIM.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSRER.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSRER.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSLOG.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSINR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSINR.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSETS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSETS.FOR(24) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [SETFIL]
+      ILF = ILEN (SETFIL)
+------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSDOU.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSDOR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSDOR.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSCTB.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDSCHA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDPARS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMTIM.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMLOG.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMDOU.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMDEF.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDMCHA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDLEX.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINQR2.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINQR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINNE.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINLV.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINLV.FOR(76) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [DATLIS]
+      I2 = ILEN (DATLIS (I1))
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINIT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINDX.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINDX.FOR(104) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILEIN]
+      ILFILE = ILEN (FILEIN)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDINDT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFTIM.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFROM.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFRER.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFRER.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFLOG.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFINR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFINR.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFDOU.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFDOR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFDOR.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDFCHA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDERR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDERR.FOR(165) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [TBLNAM]
+      I1 = ILEN (TBLNAM(ICOL))
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDTMP.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDECT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDECL.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDECI.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDECD.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDATA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDDATA.FOR(174) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILNAM]
+      I = ILEN (FILNAM)
+----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDATIM.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDARER.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDARER.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDAREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDALOG.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDAINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDAINR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDAINR.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDADOU.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDADOR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDADOR.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LXNAME]
+      ILX    = ILEN (LXNAME)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\RDACHA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\POS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\PLTHIS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\PLTFUN.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTSEL.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTPLT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTPLT.FOR(154) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [AVN]
+      IF (ILEN (AVN(I)).LE.11) THEN
+----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTDAT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTDAT.FOR(123) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [RN]
+      I1 = ILEN (RN)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTCOM.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTCOM.FOR(23) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [COMMNT]
+      IL = ILEN (COMMNT(I1))
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTARR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTARR.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [NAME]
+      IL = ILEN (NAME)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTAR2.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\OUTAR2.FOR(31) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [NAME]
+      IL = ILEN (NAME)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\NOTNUL.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\MOVAVR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\MOFILP.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LOWERC.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LINT2.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LINT2.FOR(16) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [TABNAM]
+      IL = MAX (1, ILEN (TABNAM))
+-------------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\LIMIT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\IUNIFL.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ISTART.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\INTGRL.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\INSW.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ILEN.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\IFINDI.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\IFINDC.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETUN2.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETUN.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETREC.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETCHR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\GETCHR.FOR(22) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [BUFFER]
+      ILR = ILEN (BUFFER)
+------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FOPENS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FOPENG.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FOPENG.FOR(21) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [LFNAME]
+      ILFIL = ILEN (LFNAME)
+--------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FOPENG.FOR(178) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILNAM]
+      ILFIL = MAX (ILEN (FILNAM),1)
+-------------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FLNAME.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FLEXIST.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FLEXIST.FOR(13) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILE_NAME_L]
+      IL = ILEN (FILE_NAME_L)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FCNSW.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FATALERR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\FATALERR.FOR(12) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [MODULE]
+      IL1 = ILEN (MODULE)
+------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\EXTENS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\EXTENS.FOR(17) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILEIN]
+      ILFIL  = ILEN (FILEIN)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ERROR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ERROR.FOR(11) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [MODULE]
+      IL1 = ILEN (MODULE)
+------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTREA.FOR(14) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [INPUT]
+      IL = ILEN (INPUT)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTINT.FOR(14) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [INPUT]
+      IL = ILEN (INPUT)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDRE.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDRE.FOR(38) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [INPUT]
+      IL = ILEN (INPUT)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDIN.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDIN.FOR(16) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [INPUT]
+      IL = ILEN (INPUT)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDCH.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTDCH.FOR(11) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [SDLOC]
+      IP2 = ILEN (SDLOC)
+------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ENTCHA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTSYS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTNOW.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTLEAP.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTFSEDP.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTFSECMP.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTDPST.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTDPST.FOR(35) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FORM]
+      ILFORM = ILEN (FORM)
+---------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTDPAR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DTARDP.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DELFIL.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DELFIL.FOR(12) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILE_NAME]
+      IL = ILEN (FILE_NAME)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DECREC.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DECREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DECINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\DECCHK.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\COPFL2.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\COPFL2.FOR(14) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILE]
+      IL = ILEN (FILE)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\COPFIL.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\COPFIL.FOR(20) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [FILE]
+      I1 = ILEN (FILE)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\CLS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\CHKTSK.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\AMBUSY.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\AFINVS.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDSTR.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDSTR.FOR(11) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [TMP]
+      IL = ILEN (TMP)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDSTF.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDREF.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDREA.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDREA.FOR(17) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [TMPR]
+      IL1 = ILEN (TMPR(1:IL2))
+------------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDINT.FOR
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDINT.FOR(13) : Warning: This argument's data type is incompatible with this intrinsic procedure; procedure assumed EXTERNAL.   [TMP]
+      IL = ILEN (TMP)
+-----------------^
+D:\LINTUL-XP versions\LINTUL5-NPK-new\LIBRARY\ADDINF.FOR
+Creating library...
+
+
+
+<h3>Results</h3>
+LIBPOTAT.lib - 0 error(s), 52 warning(s)
+</pre>
+</body>
+</html>
